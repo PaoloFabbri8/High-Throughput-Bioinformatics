@@ -1,0 +1,5 @@
+Longest ORF in SARS-CoV-2 genome:
+Start position:  266 
+End position:    13483 
+End position:    13483 
+Length:          13218 bp

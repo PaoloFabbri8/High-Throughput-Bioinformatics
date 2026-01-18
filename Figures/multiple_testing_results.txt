@@ -1,0 +1,6 @@
+Multiple testing correction results:
+Bonferroni correction:
+Bonferroni correction:
+Number of significant ORFs (p < 0.01):  176 
+Benjamini-Hochberg correction:
+Number of significant ORFs (p < 0.01):  192 

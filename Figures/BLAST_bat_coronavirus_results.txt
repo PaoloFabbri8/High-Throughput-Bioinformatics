@@ -1,0 +1,9 @@
+BLASTp analysis of SARS-CoV-2 spike protein against bat coronaviruses
+Top BLAST hit:
+Description: Spike glycoprotein
+Accession code: UAY13217.1
+Alignment score:
+E-value: 0.0
+Percentage identity: 98.43%
+Host species: Rhinolophus malayanus
+
