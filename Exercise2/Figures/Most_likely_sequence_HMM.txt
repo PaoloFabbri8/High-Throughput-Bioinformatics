@@ -1,0 +1,3 @@
+Most probable sequence according to the 2-state HMM: 
+Most likely sequence:  NP 149420.4 
+With a log-probability score of:  -1336.655

@@ -1,0 +1,1 @@
+Number of functional terms containing 'ligase': 293

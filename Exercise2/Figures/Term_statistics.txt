@@ -1,0 +1,3 @@
+Name of term GO:0042710: biofilm formation
+Depth of term GO:0042710: 4
+Namespace of term GO:0042710: biological_process

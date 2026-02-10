@@ -1,0 +1,3 @@
+Total number of functional active terms: 42666
+Total number of functional active + obsolete terms: 51842
+Total number of functional obsolete terms: 9176
