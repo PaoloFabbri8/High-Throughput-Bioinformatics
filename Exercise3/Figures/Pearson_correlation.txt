@@ -1,0 +1,2 @@
+Pearson correlation (All data): 0.9444678 
+Pearson correlation (Cell-line split): 0.7577354 

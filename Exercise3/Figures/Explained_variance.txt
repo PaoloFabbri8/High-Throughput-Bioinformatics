@@ -1,0 +1,2 @@
+Variance explained by PC1: 11.29618 %
+Variance explained by PC2: 10.28127 %
